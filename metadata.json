@@ -1,0 +1,7 @@
+{
+  "name": "Aprende Otomí",
+  "description": "Aprende la lengua otomí (hñähñu) mediante lecciones interactivas, práctica de pronunciación, diccionario, traductor, categorías temáticas, seguimiento de progreso y minijuegos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
